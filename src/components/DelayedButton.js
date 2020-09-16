@@ -1,5 +1,5 @@
 // Code DelayedButton Component Here
-mport React, {Component} from 'react';
+import React, {Component} from 'react';
 
 export default class DelayedButton extends Component {
 
